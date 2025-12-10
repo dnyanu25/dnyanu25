@@ -31,7 +31,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" style="margin-right:15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" style="margin-right:15px;"/><
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" style="margin-right:15px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" style="margin-right:15px;"/>
 </p>
 
@@ -75,11 +75,11 @@
   <a href="https://leetcode.com/u/dnyanu25/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-
+<br>
   <a href="https://github.com/dnyanu25">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
   </a>
-
+<br>
   <a href="https://www.linkedin.com/in/dnyaneshawari-tarte-428947241/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -101,11 +101,12 @@
   <a href="https://www.linkedin.com/in/dnyaneshawari-tarte-428947241/">
     <img src="https://img.shields.io/badge/LinkedIn-Dnyaneshwari%20Tarte-blue?style=for-the-badge&logo=linkedin" />
   </a>
+  <br>
 
   <a href="mailto:dnyaneshwari2522005@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-
+<br>
   <a href="https://leetcode.com/u/dnyanu25/">
     <img src="https://img.shields.io/badge/LeetCode-Dnyaneshwari-orange?style=for-the-badge&logo=leetcode" />
   </a>
