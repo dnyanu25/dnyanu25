@@ -88,7 +88,8 @@
 ## 🚀 Featured Projects
 
 - 🔹 **AI-Powered Smart Email Assistant** → [View Repo](https://github.com/dnyanu25/AI-Powered-Smart-Email-Assistant-)  
-- 🔹 **D_Code Repository** → [View Repo](https://github.com/dnyanu25/D_Code)
+- 🔹 **Green Cart – Online Shopping Cart** → [Live Demo](https://green-cart-ljto.vercel.app)  
+- 🔹 **Employee Management System with Performance Analysis** → [View Repo](https://github.com/dnyanu25/EMS-With-Performance-Analysis)  
 
 ---
 
