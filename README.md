@@ -1,7 +1,10 @@
 
 <!-- Banner / Title -->
-<h1 align="center">✨ Hi, I'm <span style="color:#ff7b00">Dnyaneshwari Tarte</span> 👋</h1>
-<h3 align="center">Crafting Code with Curiosity | Java •MySQL• Problem Solving</h3>
+<h1>
+  <span class="typing">✨ Hi,</span>
+  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte</span> 👋</span>
+</h1>
+<h3 class="typing delay2">Crafting Code with Curiosity | Java • MySQL • Problem Solving</h3>
 
 ---
 
@@ -12,7 +15,7 @@
 - 🌱 Learning & Mastering: **Spring Boot, REST APIs, MySQL**  
 - 🎯 Focus: Writing scalable backend systems & solving real-world problems  
 - 📧 Reach me at: **dnyaneshwari2522005@gmail.com**  
-- 📄 Resume: [View Here](https://drive.google.com/file/d/1hhrF-2GyCrfvalQsbyCDai2K1H3trfzU/view?usp=sharing)  
+- 📄 Resume: [View Here](https://drive.google.com/file/d/1sQBXxD4IdeFcQjQ0Iq326JEXFtv4wfmk/view?usp=drive_link)  
 - ⚡ Fun Fact: *Bugs don’t bother me; they just extend my night shift 🌙➡️💻*  
 
 ---
