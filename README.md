@@ -12,7 +12,7 @@
 ## 👩‍💻 About Me
 
 - 🔭 Currently building: **AI-Powered Smart Email Assistant**  
-- 🌱 Learning & Mastering: **Spring Boot, REST APIs, MySQL**  
+- 🌱 Learning & Mastering: **Spring Boot, REST APIs, AI Agents**  
 - 🎯 Focus: Writing scalable backend systems & solving real-world problems  
 - 📧 Reach me at: **dnyaneshwari2522005@gmail.com**  
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1sQBXxD4IdeFcQjQ0Iq326JEXFtv4wfmk/view?usp=drive_link)  
