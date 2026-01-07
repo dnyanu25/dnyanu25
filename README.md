@@ -2,7 +2,7 @@
 <!-- Banner / Title -->
 <h1>
   <span class="typing">✨ Hi,</span>
-  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte</span> 👋</span>
+  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte</span> 👋 </span>
 </h1>
 <h3 class="typing delay2">Crafting Code with Curiosity | Java • MySQL  • Python • Problem Solving</h3>
 
