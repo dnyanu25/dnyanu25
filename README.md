@@ -11,7 +11,7 @@
 <!-- About Section -->
 ## 👩‍💻 About Me
 
-- 🔭 Currently building: **AI-Powered Smart Email Assistant.**  
+- 🔭 Currently building: **AI-Powered Smart Email Assista nt.**  
 - 🌱 Learning & Mastering: **Spring Boot, REST APIs, AI Agents using Python**  
 - 🎯 Focus: Writing scalable backend systems & solving real-world problems.  
 - 📧 Reach me at: **dnyaneshwari2522005@gmail.com**  
