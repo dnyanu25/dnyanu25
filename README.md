@@ -1,6 +1,6 @@
 
 <!-- Banner / Title -->
-<h1>
+<h1> 
   <span class="typing">✨ Hi,</span>
   <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte<span class="typing delay1"> 
  <span style="color:#ff7b00"></span>
