@@ -81,20 +81,9 @@
 
 
 ## 🧩 LeetCode & Coding Profiles
-
 <p align="left">
-  <a href="https://leetcode.com/u/dnyanu25/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-  </a>
-<br>
-  <a href="https://github.com/dnyanu25">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" />
-  </a>
-<br>
-  <a href="https://www.linkedin.com/in/dnyaneshawari-tarte-428947241/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+ <a href="https://leetcode.com/u/dnyanu25/"> <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" /> </a> <br> <a href="https://github.com/dnyanu25"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" /> </a> <br> <a href="https://www.linkedin.com/in/dnyaneshawari-tarte-428947241/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+
 
 ---
 
