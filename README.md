@@ -2,7 +2,15 @@
 <!-- Banner / Title -->
 <h1>
   <span class="typing">✨ Hi,</span>
-  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte</span> 👋 </span>
+  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte<span class="typing delay1">
+ <span style="color:#ff7b00"></span>
+  <img 
+    src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"
+    alt="wave"
+    style="height:24px; vertical-align:middle;"
+  />
+</span>
+ 
 </h1>
 <h3 class="typing delay2">Crafting Code with Curiosity | Java • MySQL  • Python • Problem Solving</h3>
 
