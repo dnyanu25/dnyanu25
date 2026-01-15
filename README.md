@@ -5,7 +5,7 @@
   <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte<span class="typing delay1"> 
  <span style="color:#ff7b00"></span>
   <img 
-    src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"
+    src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" 
     alt="wave"
     style="height:24px; vertical-align:middle;"
   />
