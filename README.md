@@ -1,20 +1,12 @@
+<div align="center">
+<!-- Animated Header with Gradient -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,8,12,25&height=180&section=header&text=Dnyaneshwari%20Tarte&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+MySQL+Expert;Building+AI-Powered+Solutions;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" /></a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-<!-- Banner / Title -->
-<h1> 
-  <span class="typing">✨ Hi,</span>
-  <span class="typing delay1">I'm <span style="color:#ff7b00">Dnyaneshwari Tarte<span class="typing delay1"> 
- <span style="color:#ff7b00"></span>
-  <img 
-    src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" 
-    alt="wave"
-    style="height:24px; vertical-align:middle;"
-  />
-</span>
- 
-</h1>
-<h3 class="typing delay2">Crafting Code with Curiosity | Java • MySQL  • Python • Problem Solving</h3>
-
----
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> 
 
 <!-- About Section -->
 ## 👩‍💻 About Me
