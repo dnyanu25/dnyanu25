@@ -47,7 +47,7 @@
 
 ### 🗄️ Database
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
  
 </p>
 
