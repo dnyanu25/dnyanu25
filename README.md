@@ -147,6 +147,7 @@
         <p>
           <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white"/> 
           <img src="https://img.shields.io/badge/SpringBoot-9D4EDD?style=for-the-badge&logo=Springboot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/postgreSQL-4479A1?style=for-the-badge&logo=PostgreSQL&logoColor=white"/>
         </p>
       </div>
     </td>
