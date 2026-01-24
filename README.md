@@ -2,7 +2,7 @@
 <!-- Animated Header with Gradient -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=25,8,15,12&height=180&section=header&text=Dnyaneshwari%20Tarte&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Java+%7C+Python+%7C+MySQL+Expert;Building+AI-Powered+Solutions;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%9A%80;Java+%7C+Python+%7C+MySQL+Expert;Building+AI-Powered+Solutions;Problem+Solver+%26+Code+Enthusiast" alt="Typing SVG" /></a>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
