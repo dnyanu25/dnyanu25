@@ -182,7 +182,7 @@
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         </p>
     <td width="50%">
-      <h3 align="center">✨ More Projects Coming Soon...</h3>
+      <h3 align="center">SkillRoute -Ai powered skill assesment.</h3>
       <div align="center">
         <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
         <br>
