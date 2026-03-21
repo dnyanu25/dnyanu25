@@ -17,7 +17,7 @@
   
 </h2>
 
-- 🔭 Currently building: **AI-Powered Smart Email Assistant.**  
+- 🔭 Currently building: **SkillRoute AI-Powered Skill Assement And Personalized Learing.**  
 - 🌱 Learning & Mastering: **Spring Boot, REST APIs, AI Agents using Python**  
 - 🎯 Focus: Writing scalable backend systems & solving real-world problems.  
 - 📧 Reach me at: **dnyaneshwari2522005@gmail.com**  
