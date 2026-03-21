@@ -18,7 +18,7 @@
 </h2>
 
 - 🔭 Currently building: **SkillRoute AI-Powered Skill Assement And Personalized Learing.**  
-- 🌱 Learning & Mastering: **Spring Boot, REST APIs, AI Agents using Python**  
+- 🌱 Learning & Mastering: **Spring Boot, REST APIs, AI Agents using Python.**  
 - 🎯 Focus: Writing scalable backend systems & solving real-world problems.  
 - 📧 Reach me at: **dnyaneshwari2522005@gmail.com**  
 - 📄 Resume: [View Here](https://drive.google.com/file/d/1sQBXxD4IdeFcQjQ0Iq326JEXFtv4wfmk/view?usp=drive_link)  
@@ -36,7 +36,7 @@
 
 
 
-<!-- Tech Stack -->
+<!--  Tech Stack  -->
 
 ## 🛠️ Tech Stack
 
