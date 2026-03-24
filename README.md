@@ -184,7 +184,9 @@
     <td width="50%">
       <h3 align="center">SkillRoute -Ai powered skill assesment.</h3>
       <div align="center">
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200">
+         <a href="https://github.com/dnyanu25/SkillRoute-AI-Powered-Skill-Assessment">
+       <p>View Repo</p>
+        </a>
         <br>
         <p><i>Currently building something amazing! Stay tuned 🚀</i></p>
       </div>
