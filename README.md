@@ -67,13 +67,6 @@
 
 
 
-<!-- Github Analytics-->
-
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" style="vertical-align:middle;" />
-  <span style="vertical-align:middle;"> GitHub Stats & Analytics</span>
-  
-</h2>
 
 
  
