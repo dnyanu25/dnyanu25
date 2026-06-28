@@ -77,16 +77,6 @@
 
 
  
- ###   
-<div align="center">
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dnyanu25&custom_title=Contribution%20Graph&bg_color=0D1117&color=9D4EDD&line=5A67D8&point=FFFFFF&area_color=5A67D8&area=true&hide_border=true" width="100%"/>
-<!-- Trophy Stats -->
-</div>
-
----
-
 
 
 
